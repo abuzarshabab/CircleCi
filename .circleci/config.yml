@@ -25,4 +25,3 @@ workflows:
       - test: 
         requires:
           -build
-          
